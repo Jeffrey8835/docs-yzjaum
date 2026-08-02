@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-epfsbu.privatetalks.online/sitemap.xml
